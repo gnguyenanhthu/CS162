@@ -1,0 +1,4 @@
+﻿  Function.cpp
+d:\apcs\cs162\week07\project1\project3\function.cpp(40): warning C4715: 'checkoddnumb': not all control paths return a value
+  Project3.vcxproj -> D:\APCS\CS162\Week07\Project1\Debug\Project3.exe
+  Project3.vcxproj -> D:\APCS\CS162\Week07\Project1\Debug\Project3.pdb (Partial PDB)

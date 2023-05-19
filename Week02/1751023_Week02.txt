@@ -1,0 +1,52 @@
++Ex01
+Error at line cout<<*a<<endl; because a is not a pointer.
+
++Ex02
+On the screen:
+100
+1.2
+400
+Adress of z
+400
+Adress of ip1
+Adress of x
+100
+Adress of ip2
+Adress of y
+1.2
+Adress of fp
+Adress of ch
+Z
+Adress of chp
+
+
++Ex03
+Error at line delete b; it's redundant because b = a, we only have to delete a.
+
++Ex04
+On the screen:
+3
+5
+
+- Problem: forget to deallocate.
+
++Ex05
+*p = 50
+q = 8
+*r = 8
+v = 8
+*s = 50
+
++Ex06
+*p = 12
+*q = 11
+11
+Address of q
+
++Ex07
+1/B
+2/D
+3/D
+4/B
+5/B
+6/D

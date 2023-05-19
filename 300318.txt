@@ -1,0 +1,7 @@
+Given a chessboard of NxN, find out the best way to place the maximum number of Queens on the board
+so that no 2 Queens attack each other
+
+
+//A square has 12/30 way to build symmetric
+
+Homework: Knight tour problem

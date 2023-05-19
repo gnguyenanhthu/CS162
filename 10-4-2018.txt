@@ -1,0 +1,55 @@
+*2D Array:
+1/Fixed,fixed
+2/Dynamic,fixed
+3/Fixed,dynamic
+4/Dynamic,dynamic
+
+struct dcolumn{
+	int *column;
+};
+
+struct fcolumn{
+	int column[5];
+};
+
+int main(){
+	//case 1: fixed,fixed
+	int a[10][20];
+
+	cout<<a[3][5]; //accessing [3,5]
+
+	//case 2: fixed, dynamic
+	int *frow_dcol[10];
+	for(int i=0;i<10;++i){
+		cout<<"Enter size of row "<<i;
+		int x; cin>>x;
+		frow_dcol[i]=new int [x];
+	}
+	cout<<frow_dcol[3][5]; //cout<<?????
+
+	//case 3: dynamic,fixed
+	fcolumn *drow_fcol;
+	int n; cin>>n;
+	drow_fcol=new int [n][10];
+	cout<<drow_fcol[3][5];
+
+	Array1D * dArr2D;
+	dArr2D=new Array1D[n];
+	cout<<drow_fcol[3][5]; 
+
+	//case 4:
+	int **drow_dcol; //pointer of pointer, 3D -> ***, 4D -> ****
+	drow_dcol = new int *[n];
+	for (int i=0;i<n;++i){
+		int m;
+		cin>>m;
+		drow_dcol[i]=new int[m];
+	}
+	cout<<drow_dcol[3][5];
+
+	//delete array
+	for (int i=0;i<n;i++{
+		delete [] drow_fcol;
+		delete [] drow_dcol[i].column;
+	}
+}

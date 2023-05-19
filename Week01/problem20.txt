@@ -1,0 +1,12 @@
+Thang 1 co sinh nhat cua 3 sinh vien.
+Thang 2 co sinh nhat cua 0 sinh vien.
+Thang 3 co sinh nhat cua 0 sinh vien.
+Thang 4 co sinh nhat cua 1 sinh vien.
+Thang 5 co sinh nhat cua 0 sinh vien.
+Thang 6 co sinh nhat cua 0 sinh vien.
+Thang 7 co sinh nhat cua 0 sinh vien.
+Thang 8 co sinh nhat cua 1 sinh vien.
+Thang 9 co sinh nhat cua 0 sinh vien.
+Thang 10 co sinh nhat cua 0 sinh vien.
+Thang 11 co sinh nhat cua 1 sinh vien.
+Thang 12 co sinh nhat cua 0 sinh vien.

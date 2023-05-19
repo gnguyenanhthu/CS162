@@ -1,0 +1,16 @@
+void displayreverse(Node *head)
+{
+	if(head==NULL) return; //nothing to print
+	displayreverse(head->next);
+	cout<<head->data<<" ";
+}
+
+int factorial(int n)
+{
+	if (n==1 || n==0) return 1;
+	return (n*factorial(n-1));
+}
+
+Given N integer numbers: x1,x2,x3,...xN and a number X. Implement a program to place (N-1) basic arithmetic operators in between x1 numbers so that
+x1...x2...x3...x4......xN=X
++ - * / 

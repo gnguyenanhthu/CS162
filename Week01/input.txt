@@ -1,0 +1,37 @@
+6
+1751023
+Nguyen Anh Thu
+025823928
+20 11 1999
+1
+9
+1651040
+Nguyen Nguyen Hoang Thi
+012345958
+16 1 1998
+0
+7
+1551096
+Nguyen Thi Kim Phuong
+123456789
+5 1 1997
+1
+9.5
+1751046
+Dinh Lam Kieu Phuong
+135792468
+23 8 1999
+1
+7
+1451001
+Nguyen Van A
+147258369
+1 4 1996
+0
+3
+1431027
+Tran Bao Phuc
+321654987
+5 1 1996
+0
+7

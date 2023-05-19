@@ -1,0 +1,4 @@
+﻿  Ex02.cpp
+d:\apcs\cs162\week02\project1\project2\ex02.cpp(27): warning C4305: '=': truncation from 'double' to 'float'
+  Project2.vcxproj -> D:\APCS\CS162\Week02\Project1\Debug\Project2.exe
+  Project2.vcxproj -> D:\APCS\CS162\Week02\Project1\Debug\Project2.pdb (Partial PDB)

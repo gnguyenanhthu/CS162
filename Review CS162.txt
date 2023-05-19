@@ -1,0 +1,25 @@
+Review CS162
+1/ struct / class
+2/ Pointer
+3/ Dynamically allocated array
+- Dynamic size(at running time) -> after allocated -> fixed
+- Compiling time VS Running time
+- Allocation -> Deallocation
+4/ Linked list:
+- Singly / Doubly / Circular
+!!! Check NULL before access
+5/ Stack : LIFO
+- push / pop
+6/ Queue : FIFO
+- enqueue / dequeue
+7/ Recursion (track & trade)
+- The most difficult & important
+- Stopping case
+- Recover when you get back
+=> Practice !!!
+8/ Binary file (similar array)
+- open
+- read / write
+- seek (jump from 1 place to another)
+!!!Base on the structer
+9/ LL of A, A of LL, 2D Array

@@ -1,0 +1,5 @@
+﻿  Ex3.5.cpp
+d:\apcs\cs162\week06\project1\project5\ex3.5.cpp(30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\apcs\cs162\week06\project1\project5\ex3.5.cpp(20): warning C4715: 'dectobi': not all control paths return a value
+  Project5.vcxproj -> D:\APCS\CS162\Week06\Project1\Debug\Project5.exe
+  Project5.vcxproj -> D:\APCS\CS162\Week06\Project1\Debug\Project5.pdb (Partial PDB)

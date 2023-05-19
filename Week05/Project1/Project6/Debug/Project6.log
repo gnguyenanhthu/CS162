@@ -1,0 +1,4 @@
+﻿  Function.cpp
+d:\apcs\cs162\week05\project1\project6\function.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project6.vcxproj -> D:\APCS\CS162\Week05\Project1\Debug\Project6.exe
+  Project6.vcxproj -> D:\APCS\CS162\Week05\Project1\Debug\Project6.pdb (Partial PDB)

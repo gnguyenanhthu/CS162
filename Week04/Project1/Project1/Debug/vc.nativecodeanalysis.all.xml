@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>d:\apcs\cs162\week04\project1\project1\</FILEPATH>
+      <FILENAME>function.cpp</FILENAME>
+      <LINE>28</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'x' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '10' of 'd:\apcs\cs162\week04\project1\project1\function.cpp'.</DESCRIPTION>
+    <FUNCTION>load</FUNCTION>
+    <DECORATED>?load@@YAXQADAAPAUNode@@@Z</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>d:\apcs\cs162\week04\project1\project1\</FILEPATH>
+        <FILENAME>function.cpp</FILENAME>
+        <LINE>10</LINE>
+        <COLUMN>6</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>

@@ -1,0 +1,4 @@
+﻿  Function.cpp
+d:\apcs\cs162\week09\project1\project1\function.cpp(55): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\week09\project1\project1\function.cpp(76): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1561: entry point must be defined

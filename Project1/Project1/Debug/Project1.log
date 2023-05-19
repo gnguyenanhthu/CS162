@@ -1,0 +1,63 @@
+﻿  student.cpp
+d:\apcs\cs162\final_projects-master\student.cpp(25): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\student.cpp(30): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\student.cpp(64): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\student.cpp(92): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\student.cpp(122): warning C4018: '<': signed/unsigned mismatch
+  staff_students.cpp
+d:\apcs\cs162\final_projects-master\staff_students.cpp(56): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_students.cpp(93): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_students.cpp(182): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_students.cpp(194): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_students.cpp(220): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_students.cpp(230): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_students.cpp(256): warning C4018: '<': signed/unsigned mismatch
+  staff_score.cpp
+d:\apcs\cs162\final_projects-master\staff_score.cpp(44): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_score.cpp(68): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_score.cpp(78): warning C4018: '<': signed/unsigned mismatch
+  staff_schedule.cpp
+d:\apcs\cs162\final_projects-master\staff_schedule.cpp(19): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_schedule.cpp(41): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_schedule.cpp(201): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_schedule.cpp(308): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_schedule.cpp(332): warning C4018: '<': signed/unsigned mismatch
+  staff_course.cpp
+d:\apcs\cs162\final_projects-master\staff_course.cpp(57): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_course.cpp(86): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_course.cpp(117): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_course.cpp(178): warning C4018: '<': signed/unsigned mismatch
+  staff_attendance.cpp
+d:\apcs\cs162\final_projects-master\staff_attendance.cpp(38): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_attendance.cpp(40): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_attendance.cpp(44): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\staff_attendance.cpp(65): warning C4018: '<': signed/unsigned mismatch
+  sha1.cpp
+d:\apcs\cs162\final_projects-master\sha1.cpp(222): warning C4244: 'argument': conversion from 'std::streamsize' to 'const unsigned int', possible loss of data
+d:\apcs\cs162\final_projects-master\sha1.cpp(245): warning C4309: 'argument': truncation of constant value
+d:\apcs\cs162\final_projects-master\sha1.cpp(265): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+  screen.cpp
+  misc.cpp
+d:\apcs\cs162\final_projects-master\misc.cpp(21): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+d:\apcs\cs162\final_projects-master\main.cpp(48): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\main.cpp(54): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\main.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  lecturer.cpp
+d:\apcs\cs162\final_projects-master\lecturer.cpp(88): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\lecturer.cpp(164): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\lecturer.cpp(176): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\lecturer.cpp(183): warning C4018: '<': signed/unsigned mismatch
+  dataio.cpp
+d:\apcs\cs162\final_projects-master\dataio.cpp(218): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\dataio.cpp(238): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\dataio.cpp(257): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\dataio.cpp(276): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\dataio.cpp(293): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\dataio.cpp(314): warning C4018: '<': signed/unsigned mismatch
+d:\apcs\cs162\final_projects-master\dataio.cpp(333): warning C4018: '<': signed/unsigned mismatch
+  all_roles.cpp
+d:\apcs\cs162\final_projects-master\all_roles.cpp(31): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project1.vcxproj -> D:\APCS\CS162\Project1\Debug\Project1.exe
+  Project1.vcxproj -> D:\APCS\CS162\Project1\Debug\Project1.pdb (Partial PDB)

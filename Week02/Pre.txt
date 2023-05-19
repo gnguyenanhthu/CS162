@@ -1,0 +1,91 @@
+Ex06
+12
+11
+11
+Address of q
+
+Ex07
+1/B
+
+2/D
+int i, n;
+	char *x = "Alice";
+	n = strlen(x);
+	*x = x[n];
+	for (i = 0; i <= n; i++)
+	{
+		printf("%S ", x);
+		x++;
+	}
+	printf("\n", x);
+
+3/D
+char str[] = "peace";
+	char *s = str;
+	printf("%s\n", s++ + 3);
+
+4/B
+void change(int *b, int n);
+
+int main()
+{
+	int i, a[] = { 2,4,6,8,10 };
+	change(a, 5);
+	for (i = 0; i <= 4; i++)
+		printf("%d, ",a[i]);
+	system("pause");
+	return 0;
+}
+
+void change(int *b, int n)
+{
+	int i;
+	for (i = 0; i < n; i++)
+		*(b + 1) = *(b + i) + 5;
+}
+
+/*
++i=0
+*(b+1) nghĩa là a[1]
+*(b+i) + 5 nghĩa là a[0] + 5
+*(b+1) = *(b+i)+5 <=> a[1]=a[0]+5=7
+
++i=1
+*(b+1) nghĩa là a[1]
+*(b+i) + 5 nghĩa là a[1] + 5
+*(b+1) = *(b+i)+5 <=> a[1]=a[1]+5=7+5=12
+
++i=2
+*(b+1) nghĩa là a[1]
+*(b+i) + 5 nghĩa là a[2] + 5
+*(b+1) = *(b+i)+5 <=> a[1]=a[2]+5=6+5=11
+
++i=3
+*(b+1) nghĩa là a[1]
+*(b+i) + 5 nghĩa là a[3] + 5
+*(b+1) = *(b+i)+5 <=> a[1]=a[3]+5=8+5=13
+
++i=4
+*(b+1) nghĩa là a[1]
+*(b+i) + 5 nghĩa là a[4] + 5
+*(b+1) = *(b+i)+5 <=> a[1]=a[4]+5=10+5=15
+
+Chung quy chỉ thay đổi a[1] thôi, còn mấy cái kia giữ lại
+nên ra đc 2,15,6,8,10
+
+*/
+
+5/B
+	int arr[] = { 12,13,14,15,16 };
+	printf("%d,%d,%d\n", sizeof(arr), sizeof(*arr), sizeof(arr[0]));
+	system("pause");
+	return 0;
+
+6/D
+	char *str;
+	str = "%d\n";
+	str++;
+	str++;
+	printf(str - 2, 300);
+	system("pause");
+	return 0;
